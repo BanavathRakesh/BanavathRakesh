@@ -47,7 +47,7 @@ Hands-on experience with Maven builds, Docker image hardening, Trivy security sc
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories.## Hi there 👋
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
 
 <!--
 **BanavathRakesh/BanavathRakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
